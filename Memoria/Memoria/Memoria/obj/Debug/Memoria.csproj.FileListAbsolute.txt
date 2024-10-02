@@ -1,0 +1,10 @@
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\obj\Debug\Memoria.csproj.AssemblyReference.cache
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\obj\Debug\JogoDaMemoria.resources
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\obj\Debug\Memoria.Properties.Resources.resources
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\obj\Debug\Memoria.csproj.GenerateResource.cache
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\bin\Debug\Memoria.exe.config
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\bin\Debug\Memoria.exe
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\bin\Debug\Memoria.pdb
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\obj\Debug\Memoria.exe
+C:\Users\Felipe\Downloads\Memoria\Memoria\Memoria\obj\Debug\Memoria.pdb
